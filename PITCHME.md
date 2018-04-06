@@ -24,8 +24,8 @@ An application architecture for React
 
 ---
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Chapitre | Notice | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| ---|---|---|
+| Action | Enfance, formation du héros | 1 | 2 | 3 | 4 | 5 | 6 | Éducation et lecture religieuse | Commande de fleurs | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| Réflexion |  | La couleur | 2 | La littérature latine de la décadence | 4 | La peinture | 6 | La foi | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+
