@@ -21,3 +21,11 @@ An application architecture for React
 	<p class="fragment" data-fragment-index="1">Appears first</p>
 	<p class="fragment" data-fragment-index="2">Appears second</p>
 </section>
+
+---
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
