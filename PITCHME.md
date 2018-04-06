@@ -24,5 +24,7 @@ An application architecture for React
 
 ---
 
+### Résumé de chaque chapitre
+
 ![Tableau](Tableaux.png)
 
