@@ -9,6 +9,7 @@ An application architecture for React
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
 - Views: Render Data via React
+- New line
 
 ---
 
